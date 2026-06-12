@@ -9,6 +9,7 @@
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Static%20Hosting-yellow?style=flat-square)
 ![CloudFront](https://img.shields.io/badge/CloudFront-CDN-lightgrey?style=flat-square)
 ![AWS WAF](https://img.shields.io/badge/AWS%20WAF-Security-red?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/githubWithGHANA/devops-installation-scripts)
 ![ACM](https://img.shields.io/badge/ACM-HTTPS%2FSSL-success?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/githubWithGHANA/aws-devsecops-ci-cd-pipeline?style=flat-square)
 </div>
